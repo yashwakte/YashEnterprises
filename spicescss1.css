@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    text-align: center;
+}
+body{
+    background: linear-gradient(90deg,rgb(236, 152, 236),rgb(230, 112, 112),rgb(238, 238, 151));
+}
+#header{
+    background-color: rgb(19, 6, 6);
+    height: 70px;
+    
+}
+h1{
+    color: whitesmoke;
+}
+
+table{
+    width: 100%;
+    margin-top: 30px;
+}
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+#brand {
+    width: 40%;
+    float: left;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+#menu{
+    width: 60%;
+    float:right;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+}
+a{
+    color:white;
+    margin-right: 50px;
+    text-decoration:solid;
+}
+
+#title{
+    margin-top: 35px;
+    color:black;
+}
+#LionDates{
+    margin-top: 20px;
+}
+#dl{
+    background: linear-gradient(45deg,rgb(121, 23, 23),rgb(143, 12, 12));
+    color: white;
+    width: 500px;
+    padding: 15px;
+    border-radius: 50%;
+    margin:20px auto;
+}
+#BadshahSpices{
+    margin-top: 20px;
+}
+#EverestSpices{
+    margin-top: 20px;
+}
+p{
+    margin-top: 20px;
+}
+#footer{
+    background: black;
+    padding: 50px;
+    margin-top: 50px;
+    color: cornsilk;
+}
